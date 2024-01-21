@@ -1,8 +1,8 @@
-# [Your Name] - React Frontend Web Developer
+# Anand Sasikumar - React Frontend Web Developer
 
-## 👋 Hello, World!
+## 👋 Hello, Everyone!
 
-Welcome to my GitHub profile! I am [Your Name], a passionate React frontend web developer with a keen interest in artificial intelligence (AI) and machine learning (ML). I believe in creating intuitive and user-friendly interfaces to enhance the overall web experience.
+Welcome to my GitHub profile! I am Anand Sasikumar, a passionate React frontend web developer with a keen interest in artificial intelligence (AI) and machine learning (ML). I believe in creating intuitive and user-friendly interfaces to enhance the overall web experience.
 
 ### 💼 Professional Background
 
@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I am [Your Name], a passionate React frontend web 
 - **Backend:** Node.js
 - **Database:** MongoDB
 - **Version Control:** Git
-- **Other Skills:** [Any other relevant technologies or tools]
 
 ### 📚 Learning & Growth
 
@@ -24,13 +23,7 @@ I am committed to continuous learning and staying updated with the latest advanc
 
 ### 🤝 Let's Connect!
 
-If you share similar interests, have exciting projects, or just want to connect, feel free to reach out. Collaboration is key to innovation, and I'm always open to new opportunities!
-
-### 📫 Contact Information
-
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Link to your portfolio, if available]
+If you share similar interests, have exciting projects, or just want to connect, feel free to reach out. Collaboration is key to innovation, and I'm always open to new opportunities! You can connect with me through mail - anandsasi2004@gmail.com
 
 ### 🚀 Let's Build the Future Together!
 
