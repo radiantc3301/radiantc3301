@@ -7,15 +7,15 @@ Welcome to my GitHub profile! I am Anand Sasikumar, a passionate React frontend 
 ### 💼 Professional Background
 
 - 🚀 **Frontend Development:** Proficient in React.js, I specialize in building modern and responsive user interfaces.
-- 🤖 **AI & ML Enthusiast:** Fascinated by the possibilities of AI and ML, I'm always exploring new technologies and trends in the field.
 - ⚙️ **Backend Skills:** Experienced in backend development using Node.js, and database management with MongoDB.
+- 🤖 **AI & ML:** Familiar with pytorch and basic AI algorithms and machine learning methods(supervised learning, neural networks)
 
 ### 🌐 Technologies & Tools
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js
+- **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **AI:** Pytorch, Gym
+- **AI/ML:** Pytorch, Gym
 - **Version Control:** Git
 
 ### 📚 Learning & Growth
